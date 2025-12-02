@@ -5,3 +5,5 @@ duckduckgo-search
 tavily-python
 pydantic
 python-dotenv
+langgraph
+langchain_ollama
