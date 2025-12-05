@@ -6,4 +6,5 @@ tavily-python
 pydantic
 python-dotenv
 langgraph
+langchain_openai
 langchain_ollama
