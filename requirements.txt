@@ -7,4 +7,4 @@ pydantic
 python-dotenv
 langgraph
 langchain_openai
-langchain_ollama
+langchain-ollama
