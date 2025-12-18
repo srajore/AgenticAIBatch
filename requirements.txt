@@ -8,3 +8,50 @@ python-dotenv
 langgraph
 langchain_openai
 langchain-ollama
+
+###########
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-experimental
+
+python-dotenv
+ipykernel
+pydantic
+numexpr
+
+streamlit
+tabulate
+
+faiss-cpu
+
+unstructured
+langchain-unstructured
+
+langchain-pinecone
+pinecone>=6.0.0,<8.0.0
+
+# unstructured
+# langchain-pinecone
+# streamlit
+
+langchain-ollama
+# langdetect
+# deep-translator
+
+# gradio
+
+# tabulate
+
+wikipedia
+arxiv
+langgraph
+# langchain-anthropic
+
+#chroma
+# langchain-chroma
+# nbformat
+
+chromadb
+bs4
